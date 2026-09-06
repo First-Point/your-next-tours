@@ -1,0 +1,30 @@
+{
+  "name": "Your Next Tours",
+  "storeName": {
+    "ios": "Your Next Tours: Audio Guide",
+    "android": "Your Next Tours: Audio Guide"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "platforms": ["ios", "android"],
+  "guestPlatforms": ["web browser"],
+  "category": "Travel",
+  "audience": "tour guides and tour companies",
+  "price": "free to download, subscription to run live tours",
+  "pricing": "https://yournext.tours/pricing",
+  "stores": {
+    "appStore": "https://apps.apple.com/us/app/your-next-tours-audio-guide/id6783743090",
+    "googlePlay": "https://play.google.com/store/apps/details?id=com.yournext.tours"
+  },
+  "website": "https://yournext.tours",
+  "privacyPolicy": "https://yournext.tours/privacy-policy",
+  "terms": "https://yournext.tours/terms-of-use",
+  "accessibility": "https://yournext.tours/accessibility",
+  "support": "https://yournext.tours/contact",
+  "updated": "2026-09-07"
+}
